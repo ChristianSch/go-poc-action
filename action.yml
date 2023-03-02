@@ -1,0 +1,7 @@
+name: Go PoC
+author: Christian Schulze
+description: PoC of how to implement a github action in Go
+
+runs:
+  using: docker
+  image: Dockerfile
